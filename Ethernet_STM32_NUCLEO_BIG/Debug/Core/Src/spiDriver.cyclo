@@ -1,0 +1,9 @@
+../Core/Src/spiDriver.c:14:9:SPI_READ_CONTROL_REG	3
+../Core/Src/spiDriver.c:37:9:SPI_READ_MAC_MII_REG	3
+../Core/Src/spiDriver.c:62:11:SPI_READ_BUFFER_MEMORY	2
+../Core/Src/spiDriver.c:86:6:SPI_WRITE_CONTROL_REG	3
+../Core/Src/spiDriver.c:107:6:SPI_WRITE_BUFFER_MEM	2
+../Core/Src/spiDriver.c:127:6:SPI_SYSTEM_RESET	1
+../Core/Src/spiDriver.c:142:6:SPI_BIT_FIELD_SET	3
+../Core/Src/spiDriver.c:167:6:SPI_BIT_FIELD_CLEAR	3
+../Core/Src/spiDriver.c:188:6:SPI_Change_Bank	6
