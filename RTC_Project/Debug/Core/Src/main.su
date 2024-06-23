@@ -1,0 +1,16 @@
+../Core/Src/main.c:112:6:send_uart	24	static
+../Core/Src/main.c:119:5:bufsize	24	static
+../Core/Src/main.c:127:6:bufclear	16	static
+../Core/Src/main.c:136:6:set_time	32	static
+../Core/Src/main.c:162:6:set_alarm	56	static
+../Core/Src/main.c:187:6:get_time	16	static
+../Core/Src/main.c:208:5:main	56	static
+../Core/Src/main.c:470:6:SystemClock_Config	96	static
+../Core/Src/main.c:521:13:MX_RTC_Init	80	static
+../Core/Src/main.c:604:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:644:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:679:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:722:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/main.c:745:6:logDataToSD	88	static
+../Core/Src/main.c:781:9:open_append	24	static
+../Core/Src/main.c:804:6:Error_Handler	4	static,ignoring_inline_asm

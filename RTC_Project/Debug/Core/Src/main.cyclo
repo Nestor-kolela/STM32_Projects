@@ -1,0 +1,16 @@
+../Core/Src/main.c:112:6:send_uart	1
+../Core/Src/main.c:119:5:bufsize	2
+../Core/Src/main.c:127:6:bufclear	2
+../Core/Src/main.c:136:6:set_time	3
+../Core/Src/main.c:162:6:set_alarm	2
+../Core/Src/main.c:187:6:get_time	1
+../Core/Src/main.c:208:5:main	10
+../Core/Src/main.c:470:6:SystemClock_Config	4
+../Core/Src/main.c:521:13:MX_RTC_Init	5
+../Core/Src/main.c:604:13:MX_SPI1_Init	2
+../Core/Src/main.c:644:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:679:13:MX_GPIO_Init	1
+../Core/Src/main.c:722:6:HAL_GPIO_EXTI_Callback	5
+../Core/Src/main.c:745:6:logDataToSD	3
+../Core/Src/main.c:781:9:open_append	3
+../Core/Src/main.c:804:6:Error_Handler	1
